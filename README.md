@@ -22,10 +22,9 @@ Replaces two paid photography products on near-free infrastructure, with free su
 centre-cropping) and location privacy by design.
 [Case study](case-studies/photo-site.md) · [Live](https://www.charlesbingaman.com)
 
-## [Vero](case-studies/vero.md): a personal archive AI can use, with a hard line around what it must never see
+## [Vero](case-studies/vero.md): an operating system for your life's information
 [![Vero](case-studies/img/vero/hero-framed.jpg)](case-studies/vero.md)
-An encrypted archive that files itself: every document becomes sourced, dated metadata, a life map and an entity
-graph, and AI agents use it over MCP without ever seeing what's in the vault. **1,398 commits in 28 active days.**
+It files itself, builds your timeline, claims and connections with evidence, briefs you daily, and gives AI agents safe access. Agents work from it over MCP, and nothing private ever crosses its privacy boundary. **1,398 commits in 28 active days.**
 [Case study](case-studies/vero.md) · [Live](https://myown.life) (private)
 
 ## [Hackathon template](case-studies/hackathon-template.md): from two questions to a live, secure app a whole team can build on

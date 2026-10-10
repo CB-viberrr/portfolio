@@ -1,11 +1,11 @@
-# Vero: a personal archive AI can use, with a hard line around what it must never see
+# Vero: an operating system for your life's information
 
 **[Live](https://myown.life)** (private, passkey sign-in) · Role: product, design and engineering (solo, AI-assisted) ·
 Aug–Sep 2026 · TypeScript · Next.js · Postgres + pgvector · Cloudflare R2 · Fly.io · Claude / OpenAI / Voyage · MCP
 
 ![Vero's life map on desktop and the daily brief on a phone](img/vero/hero-framed.jpg)
-*The life map and daily brief, built from a demo archive of a fictional person. Every bar is a claim you can click
-through to the documents behind it.*
+*The life map and daily brief with a fictional demo persona: invented documents, no real data. Every bar is a claim
+you can click through to the documents behind it.*
 
 ## TL;DR
 - **An archive that files itself.** Every document becomes typed, dated, sourced metadata, and from it come a career

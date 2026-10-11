@@ -1,6 +1,6 @@
 # PayUp: shared expenses that get split right, in any currency
 
-**[Live](https://www.yopayup.com)** · Role: founder, product, design and engineering (solo, AI-assisted) · Aug–Sep 2026 ·
+**[Live](https://yopayup.com)** · Role: founder, product, design and engineering (solo, AI-assisted) · Aug–Sep 2026 ·
 TypeScript · Next.js · Postgres · Claude API · Cloudflare · Vercel
 
 ![PayUp on desktop and phone](img/payup/app-hero-framed.jpg)

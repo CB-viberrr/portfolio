@@ -14,7 +14,7 @@ voice calls with an AI customer, copilot, debriefs, PII redaction and measured A
 [![PayUp](case-studies/img/payup/app-hero-framed.jpg)](case-studies/payup.md)
 One typed sentence or a receipt photo becomes a correctly split expense across 162 currencies, and an AI assistant can
 operate it safely through 17 MCP tools. **377 commits in 25 active days.**
-[Case study](case-studies/payup.md) · [Live](https://www.yopayup.com)
+[Case study](case-studies/payup.md) · [Live](https://yopayup.com)
 
 ## [charlesbingaman.com](case-studies/photo-site.md): portfolio, client platform and photo map in one
 [![Photo site](case-studies/img/photo-site/hero-mt-washington-framed.jpg)](case-studies/photo-site.md)

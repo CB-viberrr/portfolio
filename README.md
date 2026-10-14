@@ -10,6 +10,13 @@ a sourced business case with sensitivity, a matched-control pilot design, and th
 voice calls with an AI customer, copilot, debriefs, PII redaction and measured AI quality. **One-click demo, built in one day.**
 [Case study](case-studies/firstcall.md) · [Live demo](https://firstcall-psi.vercel.app)
 
+## [Kindred](case-studies/kindred.md): volunteer once, qualify everywhere
+[![Kindred](case-studies/img/kindred/hero.jpg)](case-studies/kindred.md)
+A two-sided volunteering marketplace where one shared training credential replaces per-charity onboarding: 12 minutes
+of learning unlocks 14 shifts at 6 charities, booking is one tap, and every shift has a group chat. Row-level security
+on every table and AI with a hard daily budget. **Built in two days, 208 tests.**
+[Case study](case-studies/kindred.md) · [Live demo](https://kindred-seven-gold.vercel.app)
+
 ## [PayUp](case-studies/payup.md): shared expenses that get split right, in any currency
 [![PayUp](case-studies/img/payup/app-hero-framed.jpg)](case-studies/payup.md)
 One typed sentence or a receipt photo becomes a correctly split expense across 162 currencies, and an AI assistant can
